@@ -98,3 +98,33 @@ h3
 {
     right: 30px;
 }
+.filters
+{
+    margin-bottom: 20px;
+}
+
+.filters button
+{
+    padding: 10px 20px;
+
+    margin: 5px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    background: cyan;
+
+    cursor: pointer;
+
+    font-size: 16px;
+
+    transition: 0.3s;
+}
+
+.filters button:hover
+{
+    background: white;
+
+    transform: scale(1.05);
+}

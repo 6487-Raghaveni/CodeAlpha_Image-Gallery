@@ -104,7 +104,7 @@ Gallery automatically adjusts according to different screen sizes and devices.
 
 ## 🎞 Slideshow View
 
-![Slideshow](working/slideshow.png)
+![Slideshow](working/slidesho.png)
 
 
 # 🧠 Concepts Learned
