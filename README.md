@@ -1,83 +1,171 @@
-# Modern Image Gallery
+# 🌟 Modern Image Gallery
 
-A responsive and interactive Image Gallery project built using HTML, CSS, and JavaScript.
+A modern, responsive, and interactive Image Gallery built using HTML, CSS, and JavaScript.
 
-## Features
+This project provides an engaging image viewing experience with popup previews, slideshow functionality, keyboard navigation, hover animations, responsive design, and image category filtering.
 
-* Responsive gallery layout
-* Lightbox image preview
-* Previous and next image navigation
-* Keyboard support
-* Slideshow functionality
-* Hover zoom effects
-* Smooth transitions and animations
-* Click outside popup to close
-* Image filtering/categories
-* Modern and user-friendly UI
+# 🚀 Features
 
-## Keyboard Controls
+✅ Responsive Gallery Layout
+✅ Interactive Lightbox Popup
+✅ Previous & Next Image Navigation
+✅ Automatic Slideshow
+✅ Keyboard Navigation Support
+✅ Hover Zoom Effects
+✅ Smooth CSS Transitions
+✅ Click Outside Popup to Close
+✅ Modern User Interface
+✅ Image Categories / Filters
+✅ Responsive Design for Different Screen Sizes
+
+
+# 🛠 Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* DOM Manipulation
+* Flexbox Layout
+* CSS Hover Effects
+* CSS Animations & Transitions
+* Keyboard Events
+
+
+
+# 📂 Project Structure
+
+img_gallery/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+├── images/
+│   ├── 1.jpg
+│   ├── 2.png
+│   ├── 3.jpg
+│   ├── 4.png
+│   ├── 5.jpg
+│   ├── 6.jpg
+│   └── 7.jpg
+│
+└── working/
+    ├── home.png
+    ├── category.png
+    └── slideshow.png
+
+
+# 🎯 Functionalities Implemented
+
+## 🖼 Gallery Display
+
+Images are displayed in a responsive gallery layout using Flexbox.
+
+
+## 🔍 Lightbox Popup
+
+Clicking an image opens it inside a popup preview window for better viewing experience.
+
+## ⏭ Previous & Next Navigation
+
+Users can navigate between images using previous and next buttons.
+
+## ⌨ Keyboard Support
 
 * Right Arrow → Next Image
 * Left Arrow → Previous Image
 * ESC → Close Popup
 
-## Technologies Used
+## 🎞 Slideshow Feature
 
-* HTML
-* CSS
-* JavaScript
+The slideshow automatically changes images after a fixed interval.
 
-## Project Structure
+## ✨ Hover Effects & Animations
 
-* `index.html` → Main HTML structure
-* `style.css` → Styling and responsive design
-* `script.js` → Gallery functionality
-* Images → Gallery images
+Images smoothly zoom on hover with glowing shadow effects and smooth transitions.
 
-## Functionalities Implemented
+## 📱 Responsive Design
 
-### HTML
+Gallery automatically adjusts according to different screen sizes and devices.
 
-* Gallery layout
-* Popup lightbox
-* Navigation buttons
-* Slideshow button
-* Category/filter section
+# 📸 Project Screenshots
 
-### CSS
+## 🏠 Main Gallery View
 
-* Responsive flexbox gallery
-* Hover effects
-* Smooth transitions
-* Popup styling
-* Modern UI design
+![Main Gallery](working/home.png)
 
-### JavaScript
 
-* Image popup preview
-* Previous and next navigation
-* Keyboard event handling
-* Automatic slideshow
-* Click outside popup to close
-* Image category filtering
+## 🔍 Category Preview
 
-## How to Run
+![Popup Preview](working/category.png)
 
-1. Download or clone the project
-2. Open `index.html` in browser
-3. Click any image to preview
-4. Use slideshow button for automatic image transitions
-5. Use keyboard arrows for navigation
 
-## Bonus Features
 
-* Responsive design for different screen sizes
-* Hover zoom animations
-* Smooth popup transitions
-* Image categories/filters
-* Lightbox view
-* Keyboard shortcuts
+## 🎞 Slideshow View
 
-## Author
+![Slideshow](working/slideshow.png)
 
-Donthula Raghaveni.
+
+# 🧠 Concepts Learned
+
+* DOM Manipulation
+* Event Handling
+* JavaScript Functions
+* Arrays
+* Keyboard Events
+* CSS Flexbox
+* Hover Effects
+* Responsive Web Design
+* Popup / Modal Design
+
+
+
+# 🚀 How to Run the Project
+
+## Step 1
+
+Clone this repository:
+ 
+ https://github.com/6487-Raghaveni/CodeAlpha_Calculator
+
+## Step 2
+
+Open the project folder.
+
+## Step 3
+
+Run `index.html` in any modern browser.
+
+# 🔗 Project Links
+
+## GitHub Repository
+
+https://github.com/6487-Raghaveni/CodeAlpha_Calculator
+
+## LinkedIn Profile
+ 
+https://www.linkedin.com/in/donthula-raghaveni-4b084940a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+# 💼 Internship Project
+
+This project was developed as part of the Frontend Development Internship at CodeAlpha.
+
+# ⭐ Future Improvements
+
+* Dark/Light Theme Toggle
+* Fullscreen Preview
+* Favorite Images Section
+* Image Search Feature
+* Auto Image Loading
+* Masonry Grid Layout
+* Drag & Drop Slideshow
+
+
+# 👩‍💻 Author
+
+Donthula Raghaveni
+
+Frontend Development Enthusiast 🚀
+
+Passionate about building responsive and interactive web applications using HTML, CSS, and JavaScript.
