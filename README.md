@@ -104,7 +104,7 @@ Gallery automatically adjusts according to different screen sizes and devices.
 
 ## 🎞 Slideshow View
 
-![Slideshow](working/slidesho.png)
+![Slideshow](working/slideshow.png)
 
 
 # 🧠 Concepts Learned
@@ -126,8 +126,9 @@ Gallery automatically adjusts according to different screen sizes and devices.
 ## Step 1
 
 Clone this repository:
+
+https://github.com/6487-Raghaveni/CodeAlpha_Image-Gallery
  
- https://github.com/6487-Raghaveni/CodeAlpha_Calculator
 
 ## Step 2
 
@@ -141,11 +142,11 @@ Run `index.html` in any modern browser.
 
 ## GitHub Repository
 
-https://github.com/6487-Raghaveni/CodeAlpha_Calculator
+[!repo link](https://github.com/6487-Raghaveni/CodeAlpha_Image-Gallery)
 
 ## LinkedIn Profile
  
-https://www.linkedin.com/in/donthula-raghaveni-4b084940a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+[Connect on LinkedIn](https://www.linkedin.com/in/donthula-raghaveni-4b084940a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 # 💼 Internship Project
 
@@ -169,3 +170,5 @@ Donthula Raghaveni
 Frontend Development Enthusiast 🚀
 
 Passionate about building responsive and interactive web applications using HTML, CSS, and JavaScript.
+
+Thank you @codealpha...
