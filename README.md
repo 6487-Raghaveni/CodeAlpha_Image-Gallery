@@ -93,18 +93,18 @@ Gallery automatically adjusts according to different screen sizes and devices.
 
 ## 🏠 Main Gallery View
 
-![Main Gallery](working/home.png)
+![Main Gallery](working/home.jpeg)
 
 
 ## 🔍 Category Preview
 
-![Popup Preview](working/category.png)
+![Popup Preview](working/category.jpeg)
 
 
 
 ## 🎞 Slideshow View
 
-![Slideshow](working/slideshow.png)
+![Slideshow](working/slideshow.jpeg)
 
 
 # 🧠 Concepts Learned
@@ -142,11 +142,11 @@ Run `index.html` in any modern browser.
 
 ## GitHub Repository
 
-[!repo link](https://github.com/6487-Raghaveni/CodeAlpha_Image-Gallery)
+https://github.com/6487-Raghaveni/CodeAlpha_Image-Gallery
 
 ## LinkedIn Profile
  
-[Connect on LinkedIn](https://www.linkedin.com/in/donthula-raghaveni-4b084940a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+https://www.linkedin.com/in/donthula-raghaveni-4b084940a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 # 💼 Internship Project
 
